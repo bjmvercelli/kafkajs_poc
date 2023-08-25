@@ -1,0 +1,12 @@
+{
+  "name": "kafkajs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "dev": "tsc -w"
+  }
+}
